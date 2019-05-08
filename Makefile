@@ -1,6 +1,6 @@
 LATEX=pdflatex
 BIBTEX=bibtex
-STEM=robust-software
+STEM=10-robust
 CHK=robust-checks
 
 all : commands
